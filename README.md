@@ -1,8 +1,23 @@
-# Bodyweight Fitness
-A static/ non-dynamic website that describes a bodyweight fitness-related site. 
+# bodyweight_fitness #
+---
 
-Developed with html and css, without the use of frameworks, and part of the <a href="https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/higher-diploma-in-science-in-computer-science#tab=outline">WIT Higher Diploma in Science, Computer Science</a> course project work.
+### What is this repository ? ###
+This repository is a static/ non-dynamic website that describes a bodyweight fitness-related site, and the completed code submission for the 1st assignment of the 2016 Web-Dev module of the [Higher Diploma in Science, Computer Science programme].
 
-Web app was the initial assignment for the Web Development in semester 1, and submitted February 2016, approx. 6 weeks into the course.
+Developed with html and css (without the use of frameworks).
 
-A live version of the app has been deployed and <a href="http://bwf-static.surge.sh/">hosted on Surge</a>.
+A live version of the app has been deployed on [Surge].
+
+Completed: 21st February, 2016
+
+### Related Repositories ###
+
+- [Web-Dev Assignment No. 2: Spacebook]
+- [Database Relational DB: Bodyweight Fitness]
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+[Higher Diploma in Science, Computer Science programme]: <https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/higher-diploma-in-science-in-computer-science#tab=outline>
+[Surge]: <http://bwf-static.surge.sh/>
+[Web-Dev Assignment No. 2: Spacebook]: <https://github.com/damienomurchu/spacebook.git>
+[Database Relational DB: Bodyweight Fitness]: <https://github.com/damienomurchu/bodyweight_fitness_db.git>
